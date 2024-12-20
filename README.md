@@ -1,5 +1,11 @@
 # CapstoneProject_BikeSharing
 
+**Contributor**
+- Muhamad Fajar Nur Wijaya
+- Muhammad Rafi Nuruddin
+- Muhammad Abdurrahman
+- Affan Arfani Arifin
+
 **Goals**
 
 Layanan bike-sharing perlu memiliki 'tool' prediktif yang dapat membantu mereka memperkirakan jumlah permintaan sepeda pada hari, waktu, dan kondisi tertentu. Dengan menggunakan data seperti musim, jam, cuaca, dan variabel lain, alat prediktif ini dapat memperkirakan kebutuhan sepeda dengan lebih akurat. Hal ini akan menguntungkan pengguna dengan memastikan ketersediaan sepeda serta mengoptimalkan penggunaan infrastruktur bike-sharing, sehingga meningkatkan pengalaman pengguna secara keseluruhan.
