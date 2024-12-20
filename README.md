@@ -1,6 +1,7 @@
 # CapstoneProject_BikeSharing
 
 **Goals**
+
 Layanan bike-sharing perlu memiliki 'tool' prediktif yang dapat membantu mereka memperkirakan jumlah permintaan sepeda pada hari, waktu, dan kondisi tertentu. Dengan menggunakan data seperti musim, jam, cuaca, dan variabel lain, alat prediktif ini dapat memperkirakan kebutuhan sepeda dengan lebih akurat. Hal ini akan menguntungkan pengguna dengan memastikan ketersediaan sepeda serta mengoptimalkan penggunaan infrastruktur bike-sharing, sehingga meningkatkan pengalaman pengguna secara keseluruhan.
 
 Bagi penyedia layanan bike-sharing, 'prediction tool' yang dapat memberikan estimasi permintaan sepeda secara akurat tentu akan meningkatkan efisiensi operasional dan kepuasan pelanggan. Dengan semakin meningkatnya kepuasan pelanggan, akan ada peluang untuk meningkatkan jumlah sepeda sekaligus jumlah pengguna, yang pada akhirnya meningkatkan revenue perusahaan.
